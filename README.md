@@ -1,2 +1,2 @@
 # Hello-World
-Basic GITHub repository practice example
+I'm doing my first githud project.
