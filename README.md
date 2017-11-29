@@ -1,2 +1,3 @@
 # Hello-World
-I'm doing my first githud project.
+I'm doing my first github project.
+Thanks to GIT Hub
